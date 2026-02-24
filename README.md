@@ -15,4 +15,4 @@ This project demonstrates a small office network topology using Cisco Packet Tra
 - Verified connectivity using ICMP ping
 
 ## Outcome
-Successful communication between all PCs across different networks.
+Successful communication between all PCs across different networks..
